@@ -1,4 +1,4 @@
-module LibMongoC {
+module mongoc {
     header "Source/mongoc.h"
     export *
 }
