@@ -1,0 +1,4 @@
+module LibMongoC [system] {
+    header "Source/mongoc.h"
+    export *
+}
